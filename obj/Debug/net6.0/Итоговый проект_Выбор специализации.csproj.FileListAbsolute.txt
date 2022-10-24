@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Итоговый проект_Выбор специализации\bin\Debug\net6.0\Итоговый проект_Выбор специализации.exe
+C:\Users\User\Desktop\Итоговый проект_Выбор специализации\bin\Debug\net6.0\Итоговый проект_Выбор специализации.deps.json
+C:\Users\User\Desktop\Итоговый проект_Выбор специализации\bin\Debug\net6.0\Итоговый проект_Выбор специализации.runtimeconfig.json
+C:\Users\User\Desktop\Итоговый проект_Выбор специализации\bin\Debug\net6.0\Итоговый проект_Выбор специализации.dll
+C:\Users\User\Desktop\Итоговый проект_Выбор специализации\bin\Debug\net6.0\Итоговый проект_Выбор специализации.pdb
+C:\Users\User\Desktop\Итоговый проект_Выбор специализации\obj\Debug\net6.0\Итоговый проект_Выбор специализации.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Итоговый проект_Выбор специализации\obj\Debug\net6.0\Итоговый проект_Выбор специализации.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Итоговый проект_Выбор специализации\obj\Debug\net6.0\Итоговый проект_Выбор специализации.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Итоговый проект_Выбор специализации\obj\Debug\net6.0\Итоговый проект_Выбор специализации.AssemblyInfo.cs
+C:\Users\User\Desktop\Итоговый проект_Выбор специализации\obj\Debug\net6.0\Итоговый проект_Выбор специализации.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Итоговый проект_Выбор специализации\obj\Debug\net6.0\Итоговый проект_Выбор специализации.dll
+C:\Users\User\Desktop\Итоговый проект_Выбор специализации\obj\Debug\net6.0\refint\Итоговый проект_Выбор специализации.dll
+C:\Users\User\Desktop\Итоговый проект_Выбор специализации\obj\Debug\net6.0\Итоговый проект_Выбор специализации.pdb
+C:\Users\User\Desktop\Итоговый проект_Выбор специализации\obj\Debug\net6.0\Итоговый проект_Выбор специализации.genruntimeconfig.cache
+C:\Users\User\Desktop\Итоговый проект_Выбор специализации\obj\Debug\net6.0\ref\Итоговый проект_Выбор специализации.dll
